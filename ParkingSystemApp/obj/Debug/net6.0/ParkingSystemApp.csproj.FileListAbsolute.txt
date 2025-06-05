@@ -1,0 +1,15 @@
+C:\ENIGMA\testes\parking-system\ParkingSystemApp\bin\Debug\net6.0\ParkingSystemApp.exe
+C:\ENIGMA\testes\parking-system\ParkingSystemApp\bin\Debug\net6.0\ParkingSystemApp.deps.json
+C:\ENIGMA\testes\parking-system\ParkingSystemApp\bin\Debug\net6.0\ParkingSystemApp.runtimeconfig.json
+C:\ENIGMA\testes\parking-system\ParkingSystemApp\bin\Debug\net6.0\ParkingSystemApp.dll
+C:\ENIGMA\testes\parking-system\ParkingSystemApp\bin\Debug\net6.0\ParkingSystemApp.pdb
+C:\ENIGMA\testes\parking-system\ParkingSystemApp\obj\Debug\net6.0\ParkingSystemApp.csproj.AssemblyReference.cache
+C:\ENIGMA\testes\parking-system\ParkingSystemApp\obj\Debug\net6.0\ParkingSystemApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\ENIGMA\testes\parking-system\ParkingSystemApp\obj\Debug\net6.0\ParkingSystemApp.AssemblyInfoInputs.cache
+C:\ENIGMA\testes\parking-system\ParkingSystemApp\obj\Debug\net6.0\ParkingSystemApp.AssemblyInfo.cs
+C:\ENIGMA\testes\parking-system\ParkingSystemApp\obj\Debug\net6.0\ParkingSystemApp.csproj.CoreCompileInputs.cache
+C:\ENIGMA\testes\parking-system\ParkingSystemApp\obj\Debug\net6.0\ParkingSystemApp.dll
+C:\ENIGMA\testes\parking-system\ParkingSystemApp\obj\Debug\net6.0\refint\ParkingSystemApp.dll
+C:\ENIGMA\testes\parking-system\ParkingSystemApp\obj\Debug\net6.0\ParkingSystemApp.pdb
+C:\ENIGMA\testes\parking-system\ParkingSystemApp\obj\Debug\net6.0\ParkingSystemApp.genruntimeconfig.cache
+C:\ENIGMA\testes\parking-system\ParkingSystemApp\obj\Debug\net6.0\ref\ParkingSystemApp.dll
